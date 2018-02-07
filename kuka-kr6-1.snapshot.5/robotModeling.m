@@ -1,0 +1,1 @@
+smimport('C:\Users\kp\Documents\kuka-kr6-1.snapshot.5\KR6')

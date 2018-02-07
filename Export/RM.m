@@ -1,0 +1,1 @@
+smimport('C:\Users\kp\Downloads\ENPM662\Export\KR6')

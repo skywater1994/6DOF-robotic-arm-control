@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="neel parikh" on="12/15/16||23:22:16" using="Simscape Multibody Link Version 4.9" from="Autodesk Inventor 2017 (Build 210142000, 142)"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="centimeter"/>
+<RootAssembly name="KR6" uid="KR6_0E2670C4-495B-F8C9-00BA-AC8BF6DD5DEC" version="{483B11B6-4F72-73A0-610C-717C91D1BCCE}">
+<AssemblyFile name="KR6.iam" type="Inventor Assembly"/>
+<InstanceTree>
+<Instance name="KR6-2 Sockel" grounded="true" uid="KR6-2 Sockel" entityUid="KR6-2 Sockel_29960B27-4152-5AC7-9DAE-6B8058C75AD1">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="KR6-2 Achse5" uid="KR6-2 Achse5" entityUid="KR6-2 Achse5_2A7ED7BE-4FA9-FE69-066B-E1BA1DB82297">
+<Transform>
+<Rotation>0.39018503939289767 -0.27809575663897074 0.87773480344201416 0.89926854852930282 -0.089553487535606283 -0.42813111367458556 0.19766565877762834 0.95636965813938191 0.21514033636303029</Rotation>
+<Translation>-145.84202968384906 24.181320259798554 95.549915407802615</Translation>
+</Transform>
+</Instance>
+<Instance name="KR6-2 Motor1" uid="KR6-2 Motor1" entityUid="KR6-2 Motor1_A123D677-4566-5761-306D-A5BB219E037B">
+<Transform>
+<Rotation>0.39018503939321331 -0.91736869402194687 -0.07867855020412591 0.89926854852900784 0.39803853987837234 -0.18133228724654485 0.197665658778369 1.2358127260621503e-013 0.98026949730150859</Rotation>
+<Translation>-5.2492666978496736 -12.098107225217531 -16.924071250120548</Translation>
+</Transform>
+</Instance>
+<Instance name="KR6-2 Motor2" uid="KR6-2 Motor2" entityUid="KR6-2 Motor2_E7D620A4-45E8-75F1-CB3C-AAA860A47064">
+<Transform>
+<Rotation>0.39803853987784454 -0.91736869402215537 4.6655646877759147e-016 0.91736869402215526 0.3980385398778446 0 -1.3807869603431964e-016 4.4867001555855814e-016 1.0000000000000007</Rotation>
+<Translation>2.0074220064003612e-013 6.1497473780036671e-012 -2.3163693185779266e-012</Translation>
+</Transform>
+</Instance>
+<Instance name="KR6-2 Motor3" uid="KR6-2 Motor3" entityUid="KR6-2 Motor3_5695EB79-435C-5588-773B-6DBFA80009CB">
+<Transform>
+<Rotation>0.39803853987784205 -0.91736869402214316 0 0.91736869402214838 0.39803853987783738 0 0 0 0.99999999999999833</Rotation>
+<Translation>-5.5476312487842579e-014 5.8358205724155756e-012 -2.4344453941344903e-012</Translation>
+</Transform>
+</Instance>
+<Instance name="KR6-2 Achse 3" uid="KR6-2 Achse 3" entityUid="KR6-2 Achse 3_31A2A4F3-4A7E-38AC-A8E2-6AAF8E9E056E">
+<Transform>
+<Rotation>0.39018503939292154 -0.917368694022064 -0.078678550204125827 0.89926854852913063 0.39803853987808674 -0.18133228724654188 0.19766565877836581 5.8895767324366331e-014 0.98026949730151192</Rotation>
+<Translation>-5.2492666978496851 -12.098107225217298 -16.924071250121024</Translation>
+</Transform>
+</Instance>
+<Instance name="KR6-2 Achse 6" uid="KR6-2 Achse 6" entityUid="KR6-2 Achse 6_B7C3FD92-4C39-6AD1-0DBB-568B65A08E0F">
+<Transform>
+<Rotation>-0.37235522082920097 -0.2780957566393219 0.88544584230797951 0.92784371911747698 -0.089553487536009696 0.36205829056166272 -0.021392111058345292 0.95636965813925123 0.29137510973850639</Rotation>
+<Translation>-78.346928977179971 -94.548287515866249 104.05860300689095</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0" g="0" b="0" a="1"/>
+<Diffuse r="0" g="0" b="0" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.51249999999999996</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="KR6-2 Motor4" uid="KR6-2 Motor4" entityUid="KR6-2 Motor4_4BE6D122-4CF9-7C14-69FD-99A0B5707FC6">
+<Transform>
+<Rotation>0.39018503939320393 -0.91736869402193744 -0.078678550204128686 0.89926854852901117 0.39803853987836924 -0.18133228724654099 0.19766565877836739 1.2376406745127105e-013 0.98026949730150292</Rotation>
+<Translation>-5.2492666978498512 -12.098107225217568 -16.924071250119823</Translation>
+</Transform>
+</Instance>
+<Instance name="KR6-2 Motor5" uid="KR6-2 Motor5" entityUid="KR6-2 Motor5_30425385-489A-F79D-CAFB-92811938FF49">
+<Transform>
+<Rotation>0.39018503939320826 -0.91736869402193399 -0.078678550204129116 0.89926854852900362 0.39803853987836796 -0.18133228724653924 0.19766565877836956 1.2496652156307365e-013 0.98026949730150092</Rotation>
+<Translation>-5.2492666978497953 -12.098107225217621 -16.924071250119425</Translation>
+</Transform>
+</Instance>
+<Instance name="KR6-2 Motor6" uid="KR6-2 Motor6" entityUid="KR6-2 Motor6_4011879A-408D-9DD2-1E08-FCB71CD0001D">
+<Transform>
+<Rotation>0.39018503939291954 -0.91736869402206156 -0.078678550204127548 0.89926854852913007 0.39803853987808963 -0.18133228724654277 0.19766565877837142 5.9189673434122299e-014 0.98026949730151247</Rotation>
+<Translation>-5.2492666978497118 -12.098107225217314 -16.924071250121024</Translation>
+</Transform>
+</Instance>
+<Instance name="KR6-2 Flansch" uid="KR6-2 Flansch" entityUid="KR6-2 Flansch_B6E2AD9C-4B8A-997E-18EE-E086DFBE004F">
+<Transform>
+<Rotation>-0.37235522082920064 0.91919539520645699 -0.12818508085005401 0.9278437191174852 0.36550501581070044 -0.074243628086884159 -0.021392111058088595 -0.1465807246827398 -0.98896737496037379</Rotation>
+<Translation>70.656816727035917 -30.411905474491608 292.26894825762503</Translation>
+</Transform>
+</Instance>
+<Instance name="KR6-2 Achse 1" uid="KR6-2 Achse 1" entityUid="KR6-2 Achse 1_A666C242-4FFE-CFCB-5DA4-64A6DB555042">
+<Transform>
+<Rotation>0.39803853987783894 -0.91736869402214061 0 0.91736869402214105 0.39803853987783827 0 0 0 0.9999999999999909</Rotation>
+<Translation>3.6926365778488878e-014 6.082725282854069e-012 -1.8758328224066649e-012</Translation>
+</Transform>
+</Instance>
+<Instance name="KR6-2 Arm1" uid="KR6-2 Arm1" entityUid="KR6-2 Arm1_4195DA92-4811-A01D-B49E-E991A58E4202">
+<Transform>
+<Rotation>0.31482605654156964 -0.91736869402208054 -0.24355540098857689 0.72558694548041047 0.39803853987801491 -0.56132780558260731 0.61188899211449455 1.4711624549840916e-013 0.79094365243619447</Rotation>
+<Translation>18.692808665851242 43.08175152749677 -4.4544226504405771</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Mate:1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR6-2 Achse 1</Uid>
+</InstancePath>
+<Position>0 0 34.765000000000327</Position>
+<Axis>0 0 1.0000000000000091</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR6-2 Sockel</Uid>
+</InstancePath>
+<Position>0 0 1.8200000000000001</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Sockel</Uid>
+</InstancePath>
+<Position>21.560000000000002 -21.560000000000002 35</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 1</Uid>
+</InstancePath>
+<Position>25.679500000000363 -25.679500000000392 35.000000000000327</Position>
+<Axis>0 0 -1.0000000000000091</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR6-2 Arm1</Uid>
+</InstancePath>
+<Position>30.000000000000036 -6.6599999999999024 66.500000000000043</Position>
+<Axis>0 -1.0000000000000004 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR6-2 Achse 1</Uid>
+</InstancePath>
+<Position>30.000000000000441 -5.750000000000087 66.500000000000625</Position>
+<Axis>-4.4408920985006262e-016 -1.0000000000000155 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 1</Uid>
+</InstancePath>
+<Position>19.825000000000291 -6.8000000000001082 76.675000000000708</Position>
+<Axis>-4.4408920985006262e-016 -1.0000000000000155 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Arm1</Uid>
+</InstancePath>
+<Position>19.935000000000024 -6.7999999999999083 56.435000000000045</Position>
+<Axis>0 1.0000000000000004 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>23.674999999999471 3.6000000000001138 125.17499999999727</Position>
+<Axis>-1.170829069367591e-015 0.9999999999999869 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor6</Uid>
+</InstancePath>
+<Position>36.324999999999058 3.6000000000000196 125.17499999999714</Position>
+<Axis>6.3127165769640376e-015 -0.9999999999999879 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Flush:1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>24.249999999999503 3.4950000000001289 137.16499999999701</Position>
+<Axis>0.99999999999998479 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor6</Uid>
+</InstancePath>
+<Position>24.249999999998952 2.7110000000000318 125.83499999999712</Position>
+<Axis>-0.99999999999998501 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Flush:2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>35.664999999999338 3.4950000000001307 137.24999999999702</Position>
+<Axis>9.1593399531575415e-016 -1.2737583050109951e-015 -0.99999999999997802</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor6</Uid>
+</InstancePath>
+<Position>24.334999999998892 2.7110000000000363 137.24999999999685</Position>
+<Axis>-5.3013149425851225e-015 4.9896634243484538e-016 0.99999999999997702</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>29.999999999999439 -6.9024999999997423 131.49999999999713</Position>
+<Axis>1.170829069367591e-015 -0.9999999999999869 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR6-2 Arm1</Uid>
+</InstancePath>
+<Position>30.000000000000036 -7.8450000000000015 131.50000000000009</Position>
+<Axis>0 -1.0000000000000004 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>21.474999999999561 -7.8999999999997152 140.02499999999696</Position>
+<Axis>1.170829069367591e-015 -0.9999999999999869 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Arm1</Uid>
+</InstancePath>
+<Position>21.47500000000003 -7.9000000000000083 122.97500000000008</Position>
+<Axis>0 1.0000000000000004 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>17.149999999999615 -3.9599999999999529 143.03999999999687</Position>
+<Axis>-0.99999999999998479 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor5</Uid>
+</InstancePath>
+<Position>17.149999999999185 -3.9600000000011151 150.95999999999847</Position>
+<Axis>0.99999999999998646 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Flush:3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>17.254999999999622 -3.5999999999997678 143.80449999999689</Position>
+<Axis>1.170829069367591e-015 -0.9999999999999869 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor5</Uid>
+</InstancePath>
+<Position>18.039999999999203 -3.6000000000008838 143.80449999999846</Position>
+<Axis>4.2756701021980555e-015 -0.99999999999999423 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Flush:4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor5</Uid>
+</InstancePath>
+<Position>-1.5400000000006244 -3.1955000000009299 150.59999999999835</Position>
+<Axis>-3.9968028886505635e-015 -6.2823294127281159e-015 0.9999999999999889</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>17.144999999999612 -3.1954999999997682 150.5999999999967</Position>
+<Axis>-9.1593399531575415e-016 1.2737583050109951e-015 0.99999999999997802</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>17.899999999999299 6.2899999999999059 143.03999999999687</Position>
+<Axis>-0.99999999999998479 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor4</Uid>
+</InstancePath>
+<Position>17.899999999999345 6.2899999999991314 150.95999999999813</Position>
+<Axis>0.99999999999998157 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Flush:5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor4</Uid>
+</InstancePath>
+<Position>-0.79000000000032955 7.0544999999993205 150.59999999999798</Position>
+<Axis>2.2204460492503131e-016 -4.0833411773093923e-015 0.99999999999998646</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>17.894999999999268 7.0545000000000986 150.5999999999967</Position>
+<Axis>-9.1593399531575415e-016 1.2737583050109951e-015 0.99999999999997802</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Flush:6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor4</Uid>
+</InstancePath>
+<Position>18.789999999999328 6.6499999999993511 143.80449999999811</Position>
+<Axis>1.0877070542663757e-014 -0.99999999999999045 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>18.004999999999605 6.6500000000000954 143.80449999999689</Position>
+<Axis>1.170829069367591e-015 -0.9999999999999869 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>65.849999999998886 1.8817684841574305e-013 147.0000000000048</Position>
+<Axis>-0.99999999999998479 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR6-2 Achse5</Uid>
+</InstancePath>
+<Position>71.207499999998944 0 146.99999999999778</Position>
+<Axis>-0.99999999999998512 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>65.799999999998875 -6.1599999999997248 153.16000000000466</Position>
+<Axis>0.99999999999998479 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse5</Uid>
+</InstancePath>
+<Position>65.799999999999031 6.0499999999998977 153.04999999999774</Position>
+<Axis>-0.99999999999998512 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR6-2 Achse 6</Uid>
+</InstancePath>
+<Position>101.30999999999761 0 146.99999999999653</Position>
+<Axis>-0.99999999999997646 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR6-2 Flansch</Uid>
+</InstancePath>
+<Position>101.82749999999747 -1.5276668818842154e-013 146.99999999999622</Position>
+<Axis>-0.99999999999997446 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:13">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 6</Uid>
+</InstancePath>
+<Position>101.24999999999763 -2.364999999999938 144.63499999999655</Position>
+<Axis>-0.99999999999997646 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Flansch</Uid>
+</InstancePath>
+<Position>101.24999999999747 -2.4545250000002987 144.53036832199246</Position>
+<Axis>-0.99999999999997446 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:14">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR6-2 Achse5</Uid>
+</InstancePath>
+<Position>89.99999999999865 -3.0874999999999204 146.99999999999778</Position>
+<Axis>0 0.99999999999998523 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR6-2 Achse 6</Uid>
+</InstancePath>
+<Position>89.999999999997883 2.8421709430404007e-014 146.99999999999653</Position>
+<Axis>0 -0.99999999999997624 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:15">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>24.599999999999785 14.210000000000202 150.96000000000481</Position>
+<Axis>0.99999999999998479 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor1</Uid>
+</InstancePath>
+<Position>24.599999999999842 6.2899999999998668 150.96000000000518</Position>
+<Axis>-0.99999999999998068 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Flush:7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>24.494999999999465 13.445500000000019 150.60000000000474</Position>
+<Axis>-9.1593399531575415e-016 1.2737583050109951e-015 0.99999999999997802</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor1</Uid>
+</InstancePath>
+<Position>23.709999999999873 13.44549999999974 150.60000000000508</Position>
+<Axis>0 0 0.99999999999998068</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Flush:8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 3</Uid>
+</InstancePath>
+<Position>24.494999999999468 13.850000000000012 150.19550000000473</Position>
+<Axis>-1.170829069367591e-015 0.9999999999999869 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor1</Uid>
+</InstancePath>
+<Position>23.959999999999866 13.849999999999728 150.19550000000507</Position>
+<Axis>0 0.99999999999998068 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:16">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 1</Uid>
+</InstancePath>
+<Position>21.475000000000321 6.7999999999999128 57.975000000000541</Position>
+<Axis>4.4408920985006262e-016 1.0000000000000155 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor3</Uid>
+</InstancePath>
+<Position>21.475000000000172 6.799999999999903 57.975000000000101</Position>
+<Axis>2.2759572004815709e-015 1.0000000000000138 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Flush:9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 1</Uid>
+</InstancePath>
+<Position>37.750000000000554 6.6950000000001113 72.495000000000672</Position>
+<Axis>1.0000000000000147 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor3</Uid>
+</InstancePath>
+<Position>37.750000000000277 5.7349999999998769 72.495000000000132</Position>
+<Axis>1.0000000000000071 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Flush:10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 1</Uid>
+</InstancePath>
+<Position>24.005000000000361 6.6950000000001149 74.250000000000696</Position>
+<Axis>0 0 1.0000000000000091</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor3</Uid>
+</InstancePath>
+<Position>24.005000000000187 5.7349999999998804 74.250000000000128</Position>
+<Axis>0 0 1.0000000000000018</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:17">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 1</Uid>
+</InstancePath>
+<Position>-8.5250000000002295 -8.5250000000003112 45.000000000000419</Position>
+<Axis>0 0 1.0000000000000091</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor2</Uid>
+</InstancePath>
+<Position>-8.5250000000001087 8.5249999999998138 44.999999999999972</Position>
+<Axis>0 0 0.99999999999999933</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Flush:11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 1</Uid>
+</InstancePath>
+<Position>-5.995000000000184 7.7499999999999405 44.895000000000422</Position>
+<Axis>4.4408920985006262e-016 1.0000000000000155 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor2</Uid>
+</InstancePath>
+<Position>5.9949999999998873 7.7499999999998161 43.934999999999974</Position>
+<Axis>0 0.99999999999999922 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Flush:12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Motor2</Uid>
+</InstancePath>
+<Position>-7.7500000000001075 5.9949999999998136 43.934999999999974</Position>
+<Axis>-0.99999999999999944 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 1</Uid>
+</InstancePath>
+<Position>-7.7500000000002167 -5.9950000000002728 44.895000000000422</Position>
+<Axis>-1.0000000000000147 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Mate:18">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse5</Uid>
+</InstancePath>
+<Position>87.304999999998699 -2.0249999999999631 144.30499999999785</Position>
+<Axis>0 0.99999999999998523 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR6-2 Achse 6</Uid>
+</InstancePath>
+<Position>87.305067736580924 -2.0249999999999488 144.30509170553873</Position>
+<Axis>0 0.99999999999997624 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="KR6-2 Achse 1" uid="KR6-2 Achse 1_A666C242-4FFE-CFCB-5DA4-64A6DB555042" version="{C6B11A7F-2F94-C7B0-D1D9-05FFC34B1745}">
+<PartFile name="KR6-2 Achse 1.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>24.382511807472323</Mass>
+<CenterOfMass>10.478608115927328 -0.12073015124711663 48.804854756040619</CenterOfMass>
+<Inertia>6744.2891661861913 11616.319857568427 9541.0885184898943 -36.20429417653714 -4133.570266190557 -49.017260110063006</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Achse 1_ipt_5d2187b.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0.49803921568627452" b="0" a="1"/>
+<Diffuse r="1" g="0.49803921568627452" b="0" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR6-2 Achse 3" uid="KR6-2 Achse 3_31A2A4F3-4A7E-38AC-A8E2-6AAF8E9E056E" version="{6220FA8A-30C5-62B5-D9B6-AB619A37B14E}">
+<PartFile name="KR6-2 Achse 3.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>9.091595287128726</Mass>
+<CenterOfMass>34.172540353439615 -0.087858757425243558 141.14792397092916</CenterOfMass>
+<Inertia>819.10549857077001 1925.3630539049209 1380.6324385893661 -102.56280122797945 -212.07121677082776 47.012151417314975</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Achse 3_ipt_322c9df4.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0.49803921568627452" b="0" a="1"/>
+<Diffuse r="1" g="0.49803921568627452" b="0" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR6-2 Achse 6" uid="KR6-2 Achse 6_B7C3FD92-4C39-6AD1-0DBB-568B65A08E0F" version="{ACBE72E5-7F12-D433-5510-F8086C9E2966}">
+<PartFile name="KR6-2 Achse 6.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.65207356864281441</Mass>
+<CenterOfMass>92.313080977268285 1.6429813227643331 146.99999995891929</CenterOfMass>
+<Inertia>6.1047303765248504 12.395055732052773 13.592354869812727 1.5428668120875955e-008 4.6424567699432372e-008 2.3687525265538714</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Achse 6_ipt_723aac87.STEP" type="STEP"/>
+</Part>
+<Part name="KR6-2 Achse5" uid="KR6-2 Achse5_2A7ED7BE-4FA9-FE69-066B-E1BA1DB82297" version="{EE26D070-85F8-6AFE-D507-FD8AA2E4BD33}">
+<PartFile name="KR6-2 Achse5.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>2.0954137402768116</Mass>
+<CenterOfMass>77.417006799975837 -1.1323837968709445 147.00000280663863</CenterOfMass>
+<Inertia>40.732578361824153 123.62636736353487 140.07270090355351 -3.8049508351832628e-005 -4.4152658432722089e-005 15.491594805010333</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Achse5_ipt_d3d6e5cb.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0.49803921568627452" b="0" a="1"/>
+<Diffuse r="1" g="0.49803921568627452" b="0" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR6-2 Arm1" uid="KR6-2 Arm1_4195DA92-4811-A01D-B49E-E991A58E4202" version="{1F80320F-F363-2781-5471-90F574C819FB}">
+<PartFile name="KR6-2 Arm1.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>14.55942666046486</Mass>
+<CenterOfMass>29.994851490610202 -14.461758322401153 93.867148606829886</CenterOfMass>
+<Inertia>6533.1736691084652 6537.8224723519679 530.05862248644235 46.186493507128212 -0.08832336185127497 -0.67031867584772409</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Arm1_ipt_cc317efc.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0.49803921568627452" b="0" a="1"/>
+<Diffuse r="1" g="0.49803921568627452" b="0" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR6-2 Flansch" uid="KR6-2 Flansch_B6E2AD9C-4B8A-997E-18EE-E086DFBE004F" version="{F54BD8A8-8E00-1613-BB94-8B81C1DC7EBB}">
+<PartFile name="KR6-2 Flansch.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.02320056615235299</Mass>
+<CenterOfMass>101.90442457835461 0.027412608997947941 146.99998762906242</CenterOfMass>
+<Inertia>0.10464104216359556 0.053529357907478696 0.056797800602682399 -4.9571336325016086e-007 2.397515345364809e-009 -0.00011036978238162476</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Flansch_ipt_bd27cc1e.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR6-2 Motor1" uid="KR6-2 Motor1_A123D677-4566-5761-306D-A5BB219E037B" version="{62A99EB8-2B62-91F0-B1F9-E9AFFED7C6CD}">
+<PartFile name="KR6-2 Motor1.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.8631257649999754</Mass>
+<CenterOfMass>33.608963621599379 10.330289574022967 147.00000000000801</CenterOfMass>
+<Inertia>6.7717997418045996 26.474435009278356 26.685950941802002 0 0 -0.43596882102312517</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Motor1_ipt_9fee3781.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR6-2 Motor2" uid="KR6-2 Motor2_E7D620A4-45E8-75F1-CB3C-AAA860A47064" version="{29DEA505-503E-B848-EFB2-7EFFF548A60C}">
+<PartFile name="KR6-2 Motor2.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>4.4177790000000154</Mass>
+<CenterOfMass>-4.2821267874370455e-014 -3.7880352350404635e-014 55.60668049488217</CenterOfMass>
+<Inertia>241.79566213139145 241.79566213138961 146.58737300500076 -3.41632777288687e-013 -7.9870873645221926e-013 1.7462298274040939e-013</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Motor2_ipt_e911da36.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR6-2 Motor3" uid="KR6-2 Motor3_5695EB79-435C-5588-773B-6DBFA80009CB" version="{0740EECF-D522-3B9D-F793-0A239FCF9935}">
+<PartFile name="KR6-2 Motor3.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>4.4177790000000474</Mass>
+<CenterOfMass>29.999999999999996 17.406680494882053 66.5</CenterOfMass>
+<Inertia>241.79566213138773 146.58737300499902 241.7956621313952 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Motor3_ipt_108cecb1.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR6-2 Motor4" uid="KR6-2 Motor4_4BE6D122-4CF9-7C14-69FD-99A0B5707FC6" version="{49A1EC94-4AC8-008D-3A8D-BA61A9DFF94B}">
+<PartFile name="KR6-2 Motor4.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.86312576499999671</Mass>
+<CenterOfMass>8.8910363784004822 10.250000000000002 146.91971042597723</CenterOfMass>
+<Inertia>6.7717997418120506 26.685950941804798 26.474435009283305 0 -0.43596882102335804 0</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Motor4_ipt_ad5d1335.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR6-2 Motor5" uid="KR6-2 Motor5_30425385-489A-F79D-CAFB-92811938FF49" version="{AF83E41C-D32A-CFFE-45DD-ACE0D0559263}">
+<PartFile name="KR6-2 Motor5.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>0.86312576499999816</Mass>
+<CenterOfMass>8.141036378400754 2.1074442187991693e-015 146.91971042597723</CenterOfMass>
+<Inertia>6.7717997418120506 26.685950941808521 26.474435009283514 -6.0172696201375898e-014 -0.43596882102335804 -3.3814351292662545e-015</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Motor5_ipt_522b75b0.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR6-2 Motor6" uid="KR6-2 Motor6_4011879A-408D-9DD2-1E08-FCB71CD0001D" version="{54D71037-8D77-9E23-8A60-CB587C9C2FC4}">
+<PartFile name="KR6-2 Motor6.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>2.207015792355334</Mass>
+<CenterOfMass>29.999999999999993 12.60732087418625 131.50000000001788</CenterOfMass>
+<Inertia>82.119234400488438 43.252820824362338 82.119234463476104 -3.5064294934272766e-010 -1.8626451492309571e-012 -1.1641532182693482e-013</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Motor6_ipt_e3d4ca1b.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR6-2 Sockel" uid="KR6-2 Sockel_29960B27-4152-5AC7-9DAE-6B8058C75AD1" version="{8E089E30-FC6E-B33B-23C2-D5168EA504A6}">
+<PartFile name="KR6-2 Sockel.ipt" type="Inventor Part"/>
+<MassProperties>
+<Mass>51.014490276141856</Mass>
+<CenterOfMass>-4.4158990439716037 0.13176539108528282 17.391733422044215</CenterOfMass>
+<Inertia>9633.9596854924894 14739.49099368003 13979.590472070653 -63.20172529879671 156.67641251140506 166.33845715264295</Inertia>
+</MassProperties>
+<GeometryFile name="KR6-2 Sockel_ipt_56f3e586.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000000000001</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
